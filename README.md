@@ -4,7 +4,7 @@
 
 ## Code in Swift or Java / Kotlin
 
-1. ดาวน์โหลดข้อมูล data.json (https://github.com/memogames/dicl-intern-18/master/data.json) และเขียนโค้ดเพื่อหาคำตอบ
+1. ดาวน์โหลดข้อมูล [data.json](https://github.com/memogames/dicl-intern-18/blob/master/data.json) และเขียนโค้ดเพื่อหาคำตอบ
 - 1.1 หาคะแนนเฉลี่ย **score** ของนักเรียน
 - 1.2 แสดงชื่อและเกรดของนักเรียนที่ได้คะแนนมากว่า 70 ขึ้นไป
 - 1.3 ค้นหาชื่อนักเรียนที่มีคะแนนมากที่สุดและต่ำที่สุด **score**
@@ -19,7 +19,7 @@
 บททดสอบนี้จะเป็นการดูทักษะความรู้ที่จำเป็นสำหรับการพัฒนาแอปพลิเคชั่น และการใช้ UI พื้นฐาน
 
 ### Features
-- GET ข้อมูล JSON จาก movie.json (https://github.com/memogames/dicl-intern-18/master/movie.json)
+- GET ข้อมูล JSON จาก [movie.json](https://github.com/memogames/dicl-intern-18/blob/master/movie.json)
 - แสดงรายชื่อและรูปภาพใน ListView หรือ TableView
 - ผู้ใช้สามารถกดเพื่อดูข้อมูลรายละเอียดได้ในหน้าถัดไป
 - ผู้ใช้สามารถแชร์ข้อมูลชื่อหนังที่สนใจให้กับเพื่อนๆได้
